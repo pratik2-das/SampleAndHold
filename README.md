@@ -1,0 +1,1 @@
+This simulation demonstrates the functionality of a Sample and Hold circuit using a 2N7000 MOSFET and 741 op-amps. The circuit captures and holds the input waveform based on a clock-controlled switching signal, and was verified using Multisim.
